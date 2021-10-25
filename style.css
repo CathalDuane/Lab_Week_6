@@ -1,0 +1,71 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    color:blue;
+}
+
+.row{
+    justify-content: space-between;
+}
+
+.header{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 5rem;
+    color: blue;
+}
+
+.details{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size:2rem;
+    justify-content: center;
+    background-color: none; 
+}
+
+#detailsID{
+    justify-content: center;
+}
+
+.navbar{
+    text-align: center;
+    justify-content: center;
+    padding: 1rem;
+    background-color: blue;
+    color: white;
+    margin:1rem;
+    margin-top:0rem;
+}
+.letter{
+    padding-bottom:1rem;
+}
+
+.footer{
+    text-align: center;  
+}
+
+hr{
+    border: none;
+    height: 10px;
+    background: blue;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    background-color:yellow;
+}
+
+.img_1{
+    margin-bottom:1rem;
+}
+
+/* CV Page ------------*/
+
+.infoCV{
+    text-align:center;
+    padding-bottom: 1rem ;
+}
